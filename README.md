@@ -1,5 +1,7 @@
 # vim-dragvisuals
 
+Created and maintained by Damian Conway.
+
 Demo : Damian Conway, "More Instantly Better Vim" - OSCON 2013
 
 Imported from :
